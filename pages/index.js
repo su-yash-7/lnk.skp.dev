@@ -1,7 +1,9 @@
+import WebLinks from '@/components/WebLinks';
+
 export default function Home() {
   return (
     <>
-      <h1>lnk.skp.dev</h1>
+      <WebLinks />
     </>
   );
 }
